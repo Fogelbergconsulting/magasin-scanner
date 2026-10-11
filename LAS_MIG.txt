@@ -1,0 +1,17 @@
+MAGASIN SCANNER v3 - Fogelberg Consulting
+
+1. Packa upp ZIP-filen på din Windows-dator.
+2. Öppna https://github.com/fogelbergconsulting/magasin-scanner
+3. Ersätt index.html, app.js, manifest.webmanifest, sw.js och ikonerna i repositoryts huvudmapp med filerna i denna mapp. Ladda inte upp ZIP-filen.
+4. Om GitHub Pages är aktiverat för main / (root), öppna:
+   https://fogelbergconsulting.github.io/magasin-scanner/index.html
+5. Uppdatera sidan. På iPhone kan du behöva stänga appen och öppna igen för att se ny version.
+
+VIKTIGT:
+- Detta är en testversion med kundregister, magasinregister, order, filmval och PDF-utskrift.
+- Den gör INTE automatisk 3D-rekonstruktion eller volymmätning.
+- Automatisk synkronisering är INTE implementerad. Data sparas lokalt i webbläsaren.
+- Export/import av JSON under Säkerhetskopia möjliggör manuell överföring mellan enheter.
+- Kunduppgifter finns INTE på GitHub. Ladda aldrig upp kunddata i publikt repository.
+- Ta säkerhetskopior. Rensad webbläsardata kan annars förstöra registren.
+- Eventuella volymer i rapporten matas in manuellt från separat beräkning.
