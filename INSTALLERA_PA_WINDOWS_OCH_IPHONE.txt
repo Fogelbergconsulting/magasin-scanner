@@ -1,0 +1,26 @@
+MAGASIN SCANNER V2 – WINDOWS + IPHONE 14
+
+1. PROVA PA WINDOWS
+Packa upp ZIP-filen. Oppna index.html i Chrome eller Edge.
+
+2. PUBLICERA GRATIS MED GITHUB PAGES
+- Skapa ett konto pa github.com och logga in.
+- Skapa ett nytt repository, t.ex. magasin-scanner. Valj Public.
+- Valj Add file > Upload files. Ladda upp filerna INNE i den uppackade mappen (index.html, sw.js, manifest.webmanifest och ikonerna) i repositoryts rot.
+- Valj Settings > Pages. Under Build and deployment valj Deploy from a branch, main och / (root). Spara.
+- Vanta tills GitHub visar webbadressen: https://DITT-NAMN.github.io/magasin-scanner/
+OBS: Public repository betyder att appens kod ar offentlig. Ladda ALDRIG upp kundrapporter eller kunduppgifter till GitHub.
+
+3. IPHONE
+- Oppna din GitHub Pages-adress i Safari.
+- Tryck Dela > Lagg till pa hemskarmen > Oppna som webbapp > Lagg till.
+- Starta Magasin Scanner fran ikonen.
+
+4. MATA OCH RAPPORTERA
+- Ange magasinets matt och kundens namn.
+- Ta fotografier, mata referenser och mata in 9 uppskattade medelhojder.
+- Berakna volym. Skapa PDF via utskrift och valj Spara som PDF / Dela.
+- Exportera CSV for kalkylblad och JSON for sakerhetskopia.
+
+VIKTIGT
+Detta ar en MANUELL 3x3-volymmodell, inte automatisk fotogrammetri. Ingen verifierad noggrannhet. En verklig film-till-3D-losning kraver separat server/3D-motor och kontrollmatning. Webblasarens lokala lagring kan raderas; sakerhetskopiera ofta. Video analyseras inte.
